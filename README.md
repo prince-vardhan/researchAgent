@@ -46,11 +46,6 @@ README.md: Well, that's this file you're reading!
 🚀 Setup & Installation
 Want to try it out? Here’s how to get it running on your machine:
 
-Clone the repository:
-
-git clone https://github.com/your-username/agentic-research-assistant.git
-cd agentic-research-assistant
-
 Create a virtual environment (good practice!):
 
 python -m venv venv
